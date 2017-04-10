@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+	align-items: center;
+	text-align: center;
+	background-color: #f9fbff;
+}
+
+
+h2 {
+	font-size: 18pt;
+	color: #3b3e42;
+}
+
+#headline {
+	background-color: #d5deed;
+	color: #3b3e42;
+	font-size: 30pt;
+	border-style: 3px solid #3b3e42;
+	border-radius: 5px;
+	padding: 20px;
+}
+
+
+
+.jumbotron {
+	background-color: #d5deed;
+	color: #3b3e42;
+	border-style: 3px solid #3b3e42;
+}
